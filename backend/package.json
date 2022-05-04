@@ -1,5 +1,6 @@
 {
   "name": "anythink-market-backend",
+  "something": "something",
   "version": "1.0.0",
   "main": "app.js",
   "engines": {
